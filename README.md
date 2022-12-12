@@ -1,5 +1,7 @@
 # Blockchain CryptoCurrency App
 
+![web3 project](https://user-images.githubusercontent.com/82497670/207118096-28764333-a480-4c5f-992e-010e2790092a.PNG)
+
 •	when somebody joins the application they need to click the connect wallet button\
 •	It will immediately trigger the metamask connection and ask which of the accounts you want to connect\
 •	then after connecting the account you will notice that your address will show up on that nice ethereum card\
