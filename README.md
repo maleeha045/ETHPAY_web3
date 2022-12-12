@@ -25,7 +25,7 @@ each transaction would be stored on blockchain forever
 when you click that message it will open Etherscan and you will see that it is real address that is sending real transactions through the blockchain
 you can also see the address who you are sending the Ethereum to and the amount of Ethereum
 you can also see the message that you included and a GIF of the keyword that you attached to your transaction
-there would be a time and date section too
+there would be a time and date section too.
 
 
 
