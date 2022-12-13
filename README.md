@@ -18,7 +18,7 @@
 •	then finally click the "Send Now" button\
 •	metamask will popup and ask for confirmation\
 •	then after hitting confirm button 2nd popup will appear that is contract interaction\
-•	after confirming that your transaction will be sent\
+•	after confirming that your transaction will be sent
 
 --- Your Transactions ---
 
@@ -27,7 +27,7 @@
 •	when you click that message it will open Etherscan and you will see that it is real address that is sending real transactions through the blockchain\
 •	you can also see the address who you are sending the Ethereum to and the amount of Ethereum\
 •	you can also see the message that you included and a GIF of the keyword that you attached to your transaction\
-•	there would be a time and date section too\
+•	there would be a time and date section too
 
 
 
